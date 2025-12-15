@@ -2,8 +2,6 @@
 
 A Python CLI utility for manipulating PDF documents. It allows users to **Merge** multiple PDF files into a single document or **Extract** specific pages from a file.
 
-**Part of the "15 Days, 15 Projects" Challenge.**
-
 ## 🚀 Features
 
 * **Merge Mode:** Combines all PDFs in a specific folder into one `merged_output.pdf`.
